@@ -1,0 +1,17 @@
+{
+  "properties":
+  {
+    "id": {
+      "type": "keyword"
+    },
+    "vehicleName": {
+      "type": "text"
+    },
+    "vehicleNumber": {
+      "type": "text"
+    },
+    "createdDate": {
+      "type": "date"
+    }
+  }
+}
